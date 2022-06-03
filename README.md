@@ -2,17 +2,17 @@
 
 This GitHub Page will consists of projects and labs from courses I have taken for the CIT Minor at the University of Oregon.
 
-CIT 281 projects and labs:
+#CIT 281
 
-Projects:
+#Projects:
 
-Project 1 consists of: 
+#Project 1 consists of: 
 - Using the command line interface (CLI) of your operating system to create a number of folders
 - Listing the folders in a tree-like structure
 - Using the ping command, and practice using the break keyboard sequence
 - Creating and executing a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
-Project 2 consists of:
+#Project 2 consists of:
 - Using the command line interface (CLI) of your operating system to create and work with a git repository (repo)
 - Refactor the JavaScript program from the previous project to practice using git and practice refactoring
 - Using git via VSCode
