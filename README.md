@@ -68,6 +68,9 @@ https://uo-cit-notweso.github.io/cit281-lab01/
 - Repo files
 - (deliverable for project 2)
 
+### Lab 2 reference site:
+https://uo-cit-notweso.github.io/cit281-lab02/
+
 ## Lab 3 consists of:
 - Practice refactoring JavaScript code to use more modern syntax
 - Practice destructuring an object
@@ -79,6 +82,9 @@ https://uo-cit-notweso.github.io/cit281-lab01/
 - Examine code using the spread operator
 - (deliverable for project 3)
 
+### Lab 3 reference site:
+https://uo-cit-notweso.github.io/cit281-lab03/
+
 ## Lab 4 consists of:
 - Creating initial Fastify Node.js web server
 - Initializing as a Node.js project folder using Node Package Manager (npm)
@@ -87,6 +93,9 @@ https://uo-cit-notweso.github.io/cit281-lab01/
 - Fixing MIME error, test, and commit
 - Adding a second route with query parameters, test, and commit
 - (deliverable for project 3)
+
+### Lab 4 reference site:
+https://uo-cit-notweso.github.io/cit281-lab04/
 
 ## Lab 5 consists of:
 - Download and install Postman
@@ -98,6 +107,9 @@ https://uo-cit-notweso.github.io/cit281-lab01/
 - Use Postman and POST request
 - (deliverable for project 4)
 
+### Lab 5 reference site:
+https://uo-cit-notweso.github.io/cit281-lab05/
+
 ## Lab 6 consists of:
 - Joining GitHub and working through the Introduction to GitHub course
 - Creating a lab file
@@ -108,6 +120,9 @@ https://uo-cit-notweso.github.io/cit281-lab01/
 - Adding a ISBN and a delete book method
 - (deliverable for project 5)
 
+### Lab 6 reference site:
+https://uo-cit-notweso.github.io/cit281-lab06/
+
 ## Lab 7 consists of:
 - Create your own GitHub organization for the CIT Minor
 - Create your first GitHub repository
@@ -117,6 +132,9 @@ https://uo-cit-notweso.github.io/cit281-lab01/
 - Push your changes to GitHub
 - (deliverable for project 6)
 
+### Lab 7 reference site:
+https://uo-cit-notweso.github.io/cit281-lab07/
+
 ## Lab 8 consists of:
 - Create lab file and initialize Node.js folder
 - Install node-fetch package
@@ -125,12 +143,18 @@ https://uo-cit-notweso.github.io/cit281-lab01/
 - Fetch JSONPlaceholder data
 - (deliverable for project 7)
 
+### Lab 8 reference site:
+https://uo-cit-notweso.github.io/cit281-lab08/
+
 ## Lab 9 consists of:
 - Create Learning Lab course/repo within your GitHub account
 - Practice exiting and returning to the course from course repo
 - Work through course
 - Download completed course repo as deliverable
 - (deliverable for project 7)
+
+### Lab 9 reference site:
+https://uo-cit-notweso.github.io/cit281-lab09/
 
 ## Lab 10: Open lab
 - session used for extra help to complete any outstanding assignments
