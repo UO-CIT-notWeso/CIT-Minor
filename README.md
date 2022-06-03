@@ -43,20 +43,20 @@ This GitHub Page will consists of projects and labs from courses I have taken fo
 ## CIT 281 Labs:
 
 ## Lab 1 consists of:
-- Install and setup your personal computer with the software tools required for this course
-- Practice using software tools
-- Practice terminal or shell commands
-- Practice keyboard shortcuts
-- Create your first Node.js server-side JavaScript file
+- Install and setup a personal computer with the software tools required for this course
+- Practiced using software tools
+- Practiced terminal or shell commands
+- Practiced keyboard shortcuts
+- Creating a first Node.js server-side JavaScript file
 - (deliverable for project 1)
 
 ## Lab 2 consists of:
-- Use CLI commands for directory and file manipulation
-- Use CLI commands for git commands
-- Setup git user credentials
+- Using CLI commands for directory and file manipulation
+- Using CLI commands for git commands
+- Seting up git user credentials
 - New git repository
-- Initial JavaScript file
-- Add file to git
+- Initializing JavaScript file
+- Adding file to git
 - Ignoring files
 - Using diff to see changes
 - Using wildcards
@@ -96,13 +96,13 @@ This GitHub Page will consists of projects and labs from courses I have taken fo
 - (deliverable for project 4)
 
 ## Lab 6 consists of:
-- Join GitHub and work through Introduction to GitHub course
-- Create lab file
+- Joining GitHub and working through the Introduction to GitHub course
+- Creating a lab file
 - Classes overview
-- Create and test Book class
-- Create and test Library class
-- Add at least two more books to the library
-- Add ISBN and a delete book method
+- Creating and testing Book class
+- Creating and testing Library class
+- Adding at least two more books to the library
+- Adding a ISBN and a delete book method
 - (deliverable for project 5)
 
 ## Lab 7 consists of:
