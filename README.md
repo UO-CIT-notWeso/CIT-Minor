@@ -50,7 +50,7 @@ This GitHub Page will consists of projects and labs from courses I have taken fo
 - Creating a first Node.js server-side JavaScript file
 - (deliverable for project 1)
 
-## Lab 1 reference site:
+### Lab 1 reference site:
 https://uo-cit-notweso.github.io/cit281-lab01/
 
 ## Lab 2 consists of:
