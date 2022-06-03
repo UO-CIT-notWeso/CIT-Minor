@@ -2,9 +2,7 @@
 
 This GitHub Page will consists of projects and labs from courses I have taken for the CIT Minor at the University of Oregon.
 
-# CIT 281
-
-# Projects:
+# CIT 281 Projects:
 
 # Project 1 consists of: 
 - Using the command line interface (CLI) of your operating system to create a number of folders
@@ -42,7 +40,7 @@ package.json : Node.js configuration file
 - Creating a GitHub Page for each of the labs and projects that provides a brief description of the lab or project, and a screen capture
 - Adding links to the organization or user Page to each of the labs and projects
 
-# Labs:
+# CIT 281 Labs:
 
 # Lab 1 consists of:
 - Install and setup your personal computer with the software tools required for this course
