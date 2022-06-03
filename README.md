@@ -21,9 +21,9 @@ This GitHub Page will consists of projects and labs from courses I have taken fo
 - Creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 - p3-module.js : Code module that exports the coinage functionality
 - p3-server.js: Coinage web server 
-index.html : Main coin testing web page that issues requests to the web server
-package.json : Node.js configuration file
-.gitignore : Git intentional file ignore file
+- index.html : Main coin testing web page that issues requests to the web server
+- package.json : Node.js configuration file
+- .gitignore : Git intentional file ignore file
 
 ## Project 4 consists of:
 - Creating a REST API that works with a "data" source of questions and answers. Creating all of the code to work with the data source using a code module, and test the code module code using provided testing code. Also creating a Node.js REST API to handle the GET verb. 
